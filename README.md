@@ -1,3 +1,15 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description 
+A README.md generator to save time and create professional README files 
+
+## License 
+MIT License
+
+## Usage 
+Pull the code onto your computer and have node.js installed. Then run the command node index.js inside the Develop folder.
+
+
+
+https://drive.google.com/file/d/1LtxOcxK7YGKg2kUfsQcrsI0ayc7RS6HF/view?usp=share_link 
+
